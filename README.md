@@ -1,2 +1,2 @@
 # 10-Days-of-JS
-Hackerrank
+# Day 3: Arrays
