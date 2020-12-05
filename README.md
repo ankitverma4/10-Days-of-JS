@@ -1,4 +1,4 @@
-# 10-Days-of-JS
+# 10 Days of JavaScript
 
 ## Day 2: 
 > Arrays (Second largest number in array)
